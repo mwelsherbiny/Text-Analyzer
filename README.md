@@ -1,4 +1,5 @@
 # Text Analyzer
+#### Video Demo: https://youtu.be/aoAuQKO4EQs
 A desktop application built with Python and PyQt5 that allows users to analyze text.
 
 # Overview
