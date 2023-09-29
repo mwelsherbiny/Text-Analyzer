@@ -15,10 +15,14 @@ Key metrics like word count, character count, sentence count, and grade level ar
 - Clean and minimal GUI built with PyQt5
 
 # Installation
-Install dependencies:
-- pip install -r requirements.txt
+Install dependencies
+```
+pip install -r requirements.txt
+```
 Run the app:
-- python main.py
+```
+python main.py
+```
 
 # License
 Distributed under the MIT license. See LICENSE for more information.
