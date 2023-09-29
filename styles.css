@@ -1,0 +1,14 @@
+QWidget {
+  background-color: #F2F2F2;
+}
+
+QPushButton {
+  background-color: #333333;
+  color: #F2F2F2;
+  border: 3px outset black;
+}
+
+QMessageBox {
+  border: 3px solid black ;
+  margin-left: 20%;
+}
